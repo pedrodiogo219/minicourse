@@ -1,4 +1,9 @@
 first file
 
+
 making conflit
+
+
+big alteration in the first branch
+a new line
 
